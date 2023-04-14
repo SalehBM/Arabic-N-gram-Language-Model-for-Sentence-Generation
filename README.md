@@ -8,4 +8,4 @@ After building the N-gram model, the student should evaluate eight test samples 
 
 Finally, the student should submit the code they used to build the N-gram model and the test samples, including the input and output for each test case. Additionally, they should provide a text file containing the ten most frequent trigrams in the corpus they used.
 
-Saleh Alsaeed
+[center]Saleh Alsaeed[/center]
